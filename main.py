@@ -22,3 +22,6 @@ if button:
 
 expander = st.expander('問い合わせ')
 expander.write('問い合わせ内容')
+
+expander = st.expander('問い合わせ1')
+expander.write('問い合わせ内容1')
