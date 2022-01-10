@@ -25,3 +25,6 @@ expander.write('問い合わせ内容')
 
 expander = st.expander('問い合わせ1')
 expander.write('問い合わせ内容1')
+
+expander = st.expander('問い合わせ2')
+expander.write('問い合わせ内容2')
